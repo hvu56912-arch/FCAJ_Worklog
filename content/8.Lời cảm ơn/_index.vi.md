@@ -32,4 +32,3 @@ Kính chúc các anh chị luôn mạnh khỏe, hạnh phúc, giữ vững nhi�
 **Em xin chân thành cảm ơn!**
 
 *Trân trọng,*  
-*Một thực tập sinh luôn biết ơn những trải nghiệm và sự giúp đỡ đã nhận được.*

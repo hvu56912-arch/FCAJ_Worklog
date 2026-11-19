@@ -27,4 +27,4 @@ chapter: false
 
 **Thời gian thực tập:** Từ ngày 08/08/2026 đến ngày 31/10/2026
 
-![abc](/images/123.jpg/?featherlight=false&width=30pc)
+![abc](/FCAJ_Worklog/images/123.jpg?featherlight=false&width=30pc)
